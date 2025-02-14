@@ -1,7 +1,7 @@
 ## Hi I'm Sooyoung Jung 👋
-- 🛠️ I love building programs/applications that are genuinely helpful to people
-- 📱 I'm into making chrome extensions and mobile applications thesedays
-- 🌱 I'm learning C#, Azure and Deepseek APIs at the moment
+I love building Chrome extensions and mobile apps, always focusing on creating the simplest, most user-friendly experience. Seeing seniors (like my parents) and tech-averse friends struggle with overly complex apps made me realize how crucial accessibility is.
+
+These days, I’m into Python and React (JS is tolerable too), and I’m currently learning C#, Azure, and Deepseek APIs.
 
 <!--
 **syj7421/syj7421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
