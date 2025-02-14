@@ -1,5 +1,5 @@
 ## Hi I'm Sooyoung Jung 👋
-- 🛠️ I like making things that's actually helpful to people
+- 🛠️ I love building programs/applications that are genuinely helpful to people
 - 📱 I'm into making chrome extensions and mobile applications thesedays
 - 🌱 I'm learning C#, Azure and Deepseek APIs at the moment
 
