@@ -1,5 +1,5 @@
 ## Hi I'm Sooyoung Jung 👋
-I love building Chrome extensions and mobile apps, always focusing on creating the simplest, most user-friendly experience. Seeing seniors (like my parents) and tech-averse friends struggle with overly complex apps made me realize how crucial accessibility is.
+I love building mobile apps and chrome extensions , always focusing on creating the simplest, most user-friendly experience. Seeing seniors (like my parents) and tech-averse friends struggle with overly complex apps made me realize how crucial accessibility is.
 
 These days, I’m into Python and React (JS is tolerable too), and I’m currently learning C#, Azure, and Deepseek APIs.
 
